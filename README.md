@@ -39,3 +39,13 @@ Untuk mem-build aplikasi ini menjadi installer (aplikasi Windows):
 npm run obfuscate // obfuscate dulu, karena yang di production bukan dalam bentuk plaintext
 npm run dist // build installer, hasilnya ada di ../_Release/EMBDPRTKT
 ```
+
+## Info Tambahan
+
+Traktir Saya:
+
+https://sociabuzz.com/lsfkrshb/tribe
+
+Channel YouTube Saya:
+
+https://www.youtube.com/c/shbfrlnc
