@@ -1,5 +1,5 @@
 # EMBDPRTKT
-
+ 
 EMBDPRTKT adalah aplikasi untuk memproteksi video YouTube embed atau file PDF embed.
 
 Untuk mendownloadnya, kunjungi bagian Releases.
