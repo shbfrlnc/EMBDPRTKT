@@ -40,6 +40,10 @@ npm run obfuscate // obfuscate dulu, karena yang di production bukan dalam bentu
 npm run dist // build installer, hasilnya ada di ../_Release/EMBDPRTKT
 ```
 
+## Screencast
+
+- https://www.youtube.com/playlist?list=PLOg7o5N1MDWRggVrzmtuLP6cq4dsNCOv1
+
 ## Screenshot
 
 ![ScreenShot](https://github.com/shbfrlnc/EMBDPRTKT/blob/main/assets/EMBDPRTKT1.png)
