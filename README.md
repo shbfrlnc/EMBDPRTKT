@@ -1,8 +1,12 @@
 # EMBDPRTKT
- 
-EMBDPRTKT adalah aplikasi untuk memproteksi video YouTube embed atau file PDF embed.
+
+## Download
 
 Untuk mendownloadnya, kunjungi bagian Releases.
+
+## Pendahuluan
+
+EMBDPRTKT adalah aplikasi untuk memproteksi video YouTube embed atau file PDF embed.
 
 Untuk menjalankannya, ekstrak file zipnya, kemudian jalankan:
 
@@ -23,21 +27,27 @@ Setelah NWJS yang dibutuhkan selesai didownload, masukkan ke dalam folder terseb
 Kemudian, jalankan:
 
 ```
-npm run dev // untuk menjalankan aplikasi dengan script plaintext
+// untuk menjalankan aplikasi dengan script plaintext
+npm run dev
 ```
 
 Atau
 
 ```
 npm run obfuscate
-npm run start // untuk menjalankan aplikasi dengan script yang sudah di-obfuscate
+
+// untuk menjalankan aplikasi dengan script yang sudah di-obfuscate
+npm run start
 ```
 
 Untuk mem-build aplikasi ini menjadi installer (aplikasi Windows):
 
 ```
-npm run obfuscate // obfuscate dulu, karena yang di production bukan dalam bentuk plaintext
-npm run dist // build installer, hasilnya ada di ../_Release/EMBDPRTKT
+// obfuscate dulu, karena yang di production bukan dalam bentuk plaintext
+npm run obfuscate
+
+// build installer, hasilnya ada di ../_Release/EMBDPRTKT
+npm run dist
 ```
 
 ## Screencast
