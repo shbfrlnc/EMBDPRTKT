@@ -56,11 +56,11 @@ npm run dist
 
 ## Screenshot
 
-![ScreenShot](https://github.com/shbfrlnc/EMBDPRTKT/blob/main/assets/EMBDPRTKT1.png)
+![ScreenShot](assets/EMBDPRTKT1.png?raw=true)
 
-![ScreenShot](https://github.com/shbfrlnc/EMBDPRTKT/blob/main/assets/EMBDPRTKT2.png)
+![ScreenShot](assets/EMBDPRTKT2.png?raw=true)
 
-![ScreenShot](https://github.com/shbfrlnc/EMBDPRTKT/blob/main/assets/EMBDPRTKT3.png)
+![ScreenShot](assets/EMBDPRTKT3.png?raw=true)
 
 ## Info Tambahan
 
