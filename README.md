@@ -64,10 +64,6 @@ npm run dist
 
 ## Info Tambahan
 
-Traktir Saya:
+Traktir Saya, Channel YouTube Saya, dan lain-lain:
 
-https://sociabuzz.com/lsfkrshb/tribe
-
-Channel YouTube Saya:
-
-https://www.youtube.com/c/SHBFRLNC
+- https://sociabuzz.com/lsfkrshb
