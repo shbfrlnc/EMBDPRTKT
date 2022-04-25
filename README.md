@@ -4,6 +4,12 @@
 
 To download this app, visit the releases page.
 
+## More Info
+
+Support me, my youtube channel, etc:
+
+- https://shbfrlnc.github.io
+
 ## Pendahuluan
 
 EMBDPRTKT is an app for protecting YouTube video embed or PDF file embed.
@@ -62,9 +68,3 @@ npm run dist
 ![ScreenShot](assets/EMBDPRTKT2.png?raw=true)
 
 ![ScreenShot](assets/EMBDPRTKT3.png?raw=true)
-
-## Info Tambahan
-
-Traktir Saya, Channel YouTube Saya, dan lain-lain:
-
-- https://sociabuzz.com/lsfkrshb
