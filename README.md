@@ -10,7 +10,7 @@ Support me, my youtube channel, etc:
 
 - https://shbfrlnc.github.io
 
-## Pendahuluan
+## Intro
 
 EMBDPRTKT is an app for protecting YouTube video embed or PDF file embed.
 
