@@ -6,7 +6,7 @@ Untuk mendownloadnya, kunjungi halaman Releases.
 
 ## Info Lebih Lanjut
 
-SERVICES / WEBSITE / YOUTUBE / TWITTER:
+JASA FREELANCE:
 
 - https://shbfrlnc.github.io
 
