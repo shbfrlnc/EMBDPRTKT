@@ -59,10 +59,6 @@ npm run obfuscate
 npm run dist
 ```
 
-## Screencast
-
-- https://www.youtube.com/playlist?list=PLOg7o5N1MDWRggVrzmtuLP6cq4dsNCOv1
-
 ## Screenshot
 
 ![ScreenShot](assets/EMBDPRTKT1.png?raw=true)
